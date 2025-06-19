@@ -1,0 +1,4 @@
+Enter text to write to the file: Hello, Python!
+Data successfully written to output.txt.
+Enter additional text to append: Learning file handling in Python
+Data successfully append.
